@@ -198,7 +198,7 @@ Phase-aligned real parts of modes 1, 2, 3 at four target frequencies:
 - **(a) Left**: Energy profiles E(z) at four target frequencies
 - **(b) Right**: U, V, W component-energy shares across all 26 frequencies with coherent–incoherent transition marked
 
-![Wall-Normal Distribution](Report/figures/spod_zprofile_uvw.png)
+![Wall-Normal Distribution](/figures/spod_zprofile_uvw.png)
 
 ## References
 
