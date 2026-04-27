@@ -248,7 +248,7 @@ A complete **12-page technical report** is included in `Report/SPOD_Report.pdf`.
 ## Author
 
 **Sudin Bhuju Shrestha**  
-PhD Researcher, Direct Numerical Simulation of Wind-over-Waves Boundary Layers  
+PhD Researcher, Direct Numerical Simulation of Wind-over-Waves Boundary Layers  (sbhujush@cougarnet.uh.edu, sudinbhujushrestha95@gmail.com)
 April 2026
 
 ## License
