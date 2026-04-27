@@ -181,7 +181,7 @@ jupyter
 - **Right panel**: Log-log axes showing f⁻⁵/³ Kolmogorov reference (inertial subrange)
 - All 19 modes ranked by energy
 
-![SPOD Eigenvalue Spectrum](Report/figures/spod_spectrum.png)
+![SPOD Eigenvalue Spectrum](/figures/spod_spectrum.png)
 
 ### Figures 3-5: Vertical Structure of Leading Modes
 Phase-aligned real parts of modes 1, 2, 3 at four target frequencies:
@@ -190,9 +190,9 @@ Phase-aligned real parts of modes 1, 2, 3 at four target frequencies:
 - f = 16.0 Hz (highest rank separation anomaly)
 - f = 53.33 Hz (incoherent turbulent reference)
 
-![Vertical Slices Mode 1](Report/figures/spod_mode1_multifreq_xzslices.png)
-![Vertical Slices Mode 2](Report/figures/spod_mode2_multifreq_xzslices.png)
-![Vertical Slices Mode 3](Report/figures/spod_mode3_multifreq_xzslices.png)
+![Vertical Slices Mode 1](/figures/spod_mode1_multifreq_xzslices.png)
+![Vertical Slices Mode 2](/figures/spod_mode2_multifreq_xzslices.png)
+![Vertical Slices Mode 3](/figures/spod_mode3_multifreq_xzslices.png)
 
 ### Figure 6: Wall-Normal Distribution & Component Cascade
 - **(a) Left**: Energy profiles E(z) at four target frequencies
